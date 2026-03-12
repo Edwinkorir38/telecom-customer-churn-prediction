@@ -1,7 +1,7 @@
 
 <h1 align = center> Telecom Churn Prediction Project</h1>
 
-![image](images\stock-photo-customer-churn-is-shown-using-a-text-2443621059.jpg)
+![image](images/stock-photo-customer-churn-is-shown-using-a-text-2443621059.jpg)
 
 
 <div style = " margin-top: 30px;text-align : center">
@@ -70,14 +70,14 @@ http://127.0.0.1:5000/
 ```
 2. You will be presented with a user-friendly web app interface. Explore the available features and prediction options.
 
-![web-interface](images\webapp_on_local_machine.png)
+![web-interface](images/webapp_on_local_machine.png)
 
 
 3. Follow the on-screen instructions to input customer data and harness the prediction feature to anticipate future customer churn outcomes.
 
 4. The web app should provide you with results based on your input.
 
-![prediction-results](images\local_machine_after_prediction.png)
+![prediction-results](images/local_machine_after_prediction.png)
 
 5.After reviewing the results, you can take appropriate actions, make informed decisions, and apply the project to specific use cases, such as implementing attractive customer offers.
 
